@@ -1,0 +1,34 @@
+[
+    {
+        "id" : 1,
+        "name" : "Serviços Financeiros"
+    },
+    {
+        "id" : 2,
+        "name" : "Saúde & Ciências da Vida"
+    },
+    {
+        "id" : 3,
+        "name" : "Comunicação"
+    },
+    {
+        "id" : 4,
+        "name" : "Bens de Consumo"
+    },
+    {
+        "id" : 5,
+        "name" : "Setor Público"
+    },
+    {
+        "id" : 6,
+        "name" : "Retail"
+    },
+    {
+        "id" : 7,
+        "name" : "Manufatura"
+    },
+    {
+        "id" : 8,
+        "name" : "Mídia"
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "id" : 1,
+        "name" : "Pequenas Empresas",
+        "text" : "Comece em questão de minutos com ferramentas simples para desenvolver seus negócios."
+    },
+    {
+        "id" : 2,
+        "name" : "Vendas",
+        "text" : "Conecte equipes, feche mais negócios e simplifique todo o seu processo de vendas."
+    },
+    {
+        "id" : 3,
+        "name" : "Atendimento e Serviços",
+        "text" : "Crie, otimize e personalize facilmente campanhas e jornadas."
+    },
+    {
+        "id" : 4,
+        "name" : "Marketing",
+        "text" : "Crie, otimize e personalize facilmente campanhas e jornadas."
+    },
+    {
+        "id" : 5,
+        "name" : "Commerce",
+        "text" : "Engaje compradores online e na loja com comércio B2C e B2B."
+    },
+    {
+        "id" : 6,
+        "name" : "Tableau",
+        "text" : "Obtenha insights poderosos a partir de qualquer dado, a qualquer momento e em qualquer lugar."
+    },
+    {
+        "id" : 7,
+        "name" : "MuleSoft",
+        "text" : "Conecte todos os aplicativos, dados ou dispositivos, na nuvem ou no local."
+    },
+    {
+        "id" : 8,
+        "name" : "Slack",
+        "text" : "Conecte toda a sua equipe e seus dados com apps construídos em cliques, e não códigos."
+    },
+    {
+        "id" : 9,
+        "name" : "Plataforma",
+        "text" : "Conecte toda a sua equipe e seus dados com apps construídos em cliques, e não códigos."
+    },
+    {
+        "id" : 10,
+        "name" : "Sustentabilidade",
+        "text" : "Com Net Zero agora com a plataforma de gestão de sustentabilidade nº 1."
+    },
+    {
+        "id" : 11,
+        "name" : "Indústrias",
+        "text" : "Enfrente os maiores desafios do seu setor com uma solução sob medida."
+    },
+    {
+        "id" : 12,
+        "name" : "Sucesso",
+        "text" : "Conecte toda a sua equipe e seus dados com apps construídos em cliques, e não códigos."
+    },
+    {
+        "id" : 13,
+        "name" : "Work.com",
+        "text" : "Obtenha orientação, dados e soluções de especialistas para ajudar sua empresa a reabrir com segurança."
+    }
+    
+]
